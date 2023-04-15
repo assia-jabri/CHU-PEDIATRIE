@@ -4,3 +4,6 @@
 [submodule "pediatrie-back"]
 	path = pediatrie-back
 	url = https://github.com/assia-jabri/CHU-PEDIATRIE.git
+[submodule "pediatrie-mobile"]
+	path = pediatrie-mobile
+	url = https://github.com/assia-jabri/CHU-PEDIATRIE.git
