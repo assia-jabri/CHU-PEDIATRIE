@@ -1,3 +1,6 @@
 [submodule "pediatrie-front"]
 	path = pediatrie-front
 	url = https://github.com/assia-jabri/CHU-PEDIATRIE.git
+[submodule "pediatrie-back"]
+	path = pediatrie-back
+	url = https://github.com/assia-jabri/CHU-PEDIATRIE.git
